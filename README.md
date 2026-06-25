@@ -1,9 +1,11 @@
 # Open-Source Petition: Restore Manual Model Selection and Reclaim Student Autonomy
-## SIGN THE PETITION: SUBMIT AN ISSUE
+
 
 This repository serves as a decentralized, immutable ledger for developers, students, and open-source maintainers to formally protest the systematic degradation of the GitHub Copilot ecosystem. 
 
 Over a multi-stage rollout culminating in June 2026, Microsoft and GitHub have dismantled the flat-rate pricing structure, stripped essential model selection autonomy, and reduced the Student Developer Pack to a highly restricted, metered environment. This manifesto documents these structural changes and outlines the community demands required to restore platform trust.
+
+## [SIGN THE PETITION](https://github.com/ilim-cell/copilot/issues/new?template=signature.yml)
 
 ---
 
@@ -50,9 +52,11 @@ Limiting verified students to an identical credit footprint as the standard Free
 1. **Reinstate Manual Model Selection**: Allow Free and Student tiers to explicitly select their preferred model family (OpenAI, Anthropic, Google) based on task complexity.
 2. **Mandate Interface Transparency**: Return explicit model name labels to the IDE extension dropdown menus so users can audit system performance.
 3. **Protect Verified Educational Status**: Eliminate the automated downgrade penalty that revokes a user's verified student status if they consume paid overages or temporarily purchase higher credit tiers.
+4. **Eliminate Usage Based Billing**: Return to the older flat rate model that was PERFECTLY SUSTAINABLE for Microsoft.
 
 ---
 
 ## How to Sign the Petition
 
 To maintain a permanent, public record of community resistance, add your signature by submitting a **new issue**
+## [SIGN THE PETITION](https://github.com/ilim-cell/copilot/issues/new?template=signature.yml)
