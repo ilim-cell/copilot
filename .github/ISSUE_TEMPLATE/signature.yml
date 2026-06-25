@@ -1,0 +1,46 @@
+name: "Petition Signature Submission"
+description: "Submit a formal signature to be appended to the public ledger against the Copilot infrastructure changes."
+title: "[SIGNATURE]: Formal Account Verification Request"
+labels: ["petition-signature"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        By submitting this document, you will irreversibly submit your signature to the issues list to show your support. Please ensure all required fields match your profile information exactly.
+  - type: input
+    id: username
+    attributes:
+      label: GitHub Username
+      description: Provide your exact GitHub identifier excluding the leading @ symbol.
+      placeholder: e.g., engineering-user
+    validations:
+      required: true
+  - type: dropdown
+    id: role
+    attributes:
+      label: Professional or Educational Designation (Optional)
+      description: Select the category that best aligns with your primary development track. Leaving this field blank or unselected is acceptable.
+      options:
+        - Student / Academic Researcher
+        - Open Source Maintainer / Contributor
+        - Enterprise Software Engineer
+        - Systems / DevOps Engineer
+        - Independent Technical Contractor
+        - Other
+    validations:
+      required: false
+  - type: textarea
+    id: technical_grievance
+    attributes:
+      label: Technical Statement of Grievance (Optional)
+      description: Provide a detailed narrative outlining how the removal of manual model selection, the enforcement of the credit system, or the deployment of the black-box auto-routing algorithm has directly degraded your development velocity or educational workflows.
+      placeholder: Provide an objective summary of the technical impact on your active projects.
+    validations:
+      required: false
+  - type: checkboxes
+    id: compliance_verification
+    attributes:
+      label: Compliance Verification
+      options:
+        - label: I formally verify that the submitted information is accurate and give consent for my username to be recorded publicly in this repository.
+          required: true
