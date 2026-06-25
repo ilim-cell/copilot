@@ -1,6 +1,6 @@
 name: "Petition Signature Submission"
 description: "Submit a formal signature to be appended to the public ledger against the Copilot infrastructure changes."
-title: "[SIGNATURE]: Formal Account Verification Request"
+title: "[SIGNATURE]: Formal Petition Signature"
 labels: ["petition-signature"]
 body:
   - type: markdown
