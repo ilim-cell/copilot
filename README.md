@@ -6,6 +6,7 @@ This repository serves as a decentralized, immutable ledger for developers, stud
 Over a multi-stage rollout culminating in June 2026, Microsoft and GitHub have dismantled the flat-rate pricing structure, stripped essential model selection autonomy, and reduced the Student Developer Pack to a highly restricted, metered environment. This manifesto documents these structural changes and outlines the community demands required to restore platform trust.
 
 ## [SIGN THE PETITION](https://github.com/ilim-cell/copilot/issues/new?template=signature.yml)
+![Open Petitions](https://img.shields.io/github/issues/ilim-cell/copilot/petition-signature?label=Petition%20Signatures)
 
 ---
 
